@@ -10,3 +10,7 @@ p{
   margin-bottom: 50px;
   margin-left: 30px;
 }
+
+p.normal{
+  font-size: 10px;
+}
