@@ -1,4 +1,7 @@
-div{background-color: blue;}
+div{
+  background-color: blue;
+  font-size: 40px;
+}
 
 p{
   margin-top: 50px;
