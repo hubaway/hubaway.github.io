@@ -11,7 +11,8 @@ div{
 }
 
 ul.list{
-  display: inline;
+  display: block;
+  list-style-position: inside;
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
